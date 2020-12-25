@@ -10,7 +10,7 @@
   - 🎓 &nbsp; Studying Information Technology at University of Colombo
   - 🔭 &nbsp; Currently working at Developers-In
   - 🌱 &nbsp; Currently learning to be a full stack developer
-  - 👯 &nbsp; Looking to collaborate with other developers
+  - 👯 &nbsp; Looking forward to collaborate with other developers
   - 👀 &nbsp; Exploring new technologies
   - 😁 &nbsp; You can call me Phoenix
   - 🔜 &nbsp; My new blog is coming soon..  
