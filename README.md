@@ -1,4 +1,4 @@
-<h1 align="center">Hey Guys! It's Rukshan 😉</h1>
+<h1 align="center">Hey Guys! It's Rukshan Nuwan 😉</h1>
 
 <h3 align="center">🎓 Student | [---] Developer | Linux | Open Source 🎓</h3>
 
