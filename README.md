@@ -17,7 +17,7 @@
 </div>
 </div>
 
-<h3>🤙 Connect with Me </h3>
+<h3>🤙 Keep in touch with </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rukshan-nuwan-a2b47a156/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
