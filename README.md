@@ -1,4 +1,4 @@
-<h1 align="center">Hey Guys! It's Rukshan Nuwan 😉</h1>
+<h1 align="center">Hey Guys! It's '<'Rukshan Nuwan'/>' 😉</h1>
 
 <h3 align="center">🎓 Student | [---] Developer | Linux | Open Source 🎓</h3>
 
@@ -12,8 +12,8 @@
   - 🌱 &nbsp; Currently learning to be a full stack developer
   - 👯 &nbsp; Looking forward to collaborate with other developers
   - 👀 &nbsp; Exploring new technologies
-  - 😁 &nbsp; You can call me Phoenix
-  - 🔜 &nbsp; My new blog is coming soon..  
+  - 😁 &nbsp; You can call me <b>Phoenix</b>
+  - 🔜 &nbsp; My blog is coming soon..  
 </div>
 </div>
 
