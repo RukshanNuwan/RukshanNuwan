@@ -1,6 +1,6 @@
 <h1 align="center">Hey Guys! It's '<'Rukshan Nuwan'/>' 😉</h1>
 
-<h3 align="center">🎓 Student | [---] Developer | Linux | Open Source 🎓</h3>
+<h3 align="center">🎓 Student | Developer | Linux | Open Source 🎓</h3>
 
 <div>
 <img width = "40%" height="100%" align="right" alt="PIC" height="300px" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
